@@ -1,0 +1,22 @@
+@import "reset";
+
+//color
+
+$color1: #562F7D;
+$color2: #FEF1DD;
+$color3: #FCD498;
+$color4: #C4C4C4;
+$color5: #FEECF3;
+$color6: #74362D;
+$color7: #6B49B1;
+$colorBg3: #F2EDFE;
+$colorBg1: #FCDDD7;
+
+// Font
+
+@font-face {
+    font-family: 'Radon';
+    src: url(/assets/style/Font/Radon.otf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
