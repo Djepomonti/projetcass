@@ -1,4 +1,9 @@
 @import "reset";
+@import "nav";
+@import "frame1";
+@import "frame2";
+@import "frame3";
+@import "frame4";
 
 //color
 
@@ -20,3 +25,8 @@ $colorBg1: #FCDDD7;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.container{
+    width: 1920px;
+    margin: 0 auto;
+}
